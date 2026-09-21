@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sankat Setu</string>
+    <string name="tagline">Crisis bridge — no internet needed</string>
+
+    <string name="perm_bluetooth_title">Bluetooth</string>
+    <string name="perm_bluetooth_rationale">Sankat Setu talks to nearby phones over Bluetooth to relay messages when there\'s no signal at all. No internet is used for this.</string>
+    <string name="perm_location_title">Location</string>
+    <string name="perm_location_rationale">Android requires this permission for apps to discover nearby Bluetooth devices. Sankat Setu does not track or store your location.</string>
+    <string name="perm_camera_title">Camera</string>
+    <string name="perm_camera_rationale">Used to scan payment QR codes and to exchange verification codes with other users.</string>
+
+    <string name="chat_tab">Chat</string>
+    <string name="assistant_tab">Assistant</string>
+    <string name="pay_tab">Pay</string>
+    <string name="sos_action">SOS</string>
+
+    <string name="peer_hop_count">%1$d hop</string>
+    <string name="peer_hop_count_plural">%1$d hops</string>
+    <string name="bluetooth_off_banner">Bluetooth is off — turn it on to reach nearby phones</string>
+</resources>

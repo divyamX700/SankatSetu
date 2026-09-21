@@ -1,0 +1,3 @@
+# Strands Agents SDK with its Ollama model-provider extra.
+# See docs/adr/0016-on-device-agent-architecture.md and gateway/agent/main.py.
+strands-agents[ollama]

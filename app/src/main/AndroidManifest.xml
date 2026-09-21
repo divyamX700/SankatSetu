@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- ===== Mesh (BLE) — Day 1 ===== -->
+    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
+    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" android:usesPermissionFlags="neverForLocation" tools:targetApi="31" />
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+    <!-- Pre-Android-12 BLE scan requires classic BLUETOOTH + BLUETOOTH_ADMIN -->
+    <uses-permission android:name="android.permission.BLUETOOTH" android:maxSdkVersion="30" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" android:maxSdkVersion="30" />
+    <!-- ACCESS_FINE_LOCATION is required by the OS for BLE scan results below
+         Android 12, and Android 12+ needs it too unless neverForLocation is
+         honored by every OEM (not all are). We request it and explain why in
+         the setup flow rather than pretend it isn't needed. -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <!-- ===== Pay tab: scan-to-pay QR (Flowpay-pattern, no redirect to a
+         separate UPI app) — re-added, this time actually wired to a real
+         screen; see docs/adr/0022-qr-scan-to-pay.md for why this was
+         previously removed as dead code (08b5e67) and why it's back.
+         CALL_PHONE is for UssdDialer's Intent.ACTION_CALL — needed because
+         ACTION_DIAL's own dial-pad UI was found live to mangle a VPA's
+         letters/@ via keypad letter-to-digit mapping before a payment
+         request ever reached the network; ACTION_CALL hands the string
+         straight to the telephony stack instead, matching Flowpay's own
+         real mechanism (CallManager.kt) exactly. ===== -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <!-- ===== Nostr "connectivity returns" bridge — added Day 3 =====
+         Declared honestly, see docs/adr/0003-internet-permission.md for why
+         this app is NOT a zero-INTERNET app like Flowpay. -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-feature android:name="android.hardware.bluetooth_le" android:required="true" />
+    <uses-feature android:name="android.hardware.camera" android:required="false" />
+    <uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />
+
+    <application
+        android:name=".SankatSetuApplication"
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.SankatSetu"
+        android:supportsRtl="true">
+
+        <activity
+            android:name=".ui.MainActivity"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Keeps the BLE stack alive against OEM background-execution kills.
+             See docs/concepts/ble-mesh-protocol.md#android-background-execution -->
+        <service
+            android:name=".mesh.transport.MeshForegroundService"
+            android:foregroundServiceType="connectedDevice"
+            android:exported="false" />
+
+    </application>
+</manifest>

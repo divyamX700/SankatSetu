@@ -1,0 +1,26 @@
+# Road Traffic Accident Response
+Source: Adapted from ICRC/IFRC first aid guidelines and general road accident first-responder principles — authored summary, with citations per section below
+
+## Making the Scene Safe First
+Before helping anyone, check for ongoing danger: oncoming traffic, fire risk, fuel leakage, or unstable vehicles that could shift or roll. If safe, turn on hazard lights, place warning triangles or reflective objects some distance behind the accident if available, and ask bystanders to help direct traffic around the scene. Do not put yourself at risk of being hit by another vehicle while helping — a second collision involving a bystander is a common and preventable tragedy at accident scenes. [Source: ICRC/IFRC first aid guidelines on scene safety]
+
+## Approaching Injured People
+Do not move an injured person unless there is immediate danger (fire, oncoming traffic, or an unstable vehicle), since movement can worsen a spinal or other serious injury. Check each person for responsiveness and breathing, working through people systematically rather than focusing only on the most visibly injured. If someone is trapped in a vehicle and not in immediate danger, wait for trained rescue and medical personnel who have the right equipment to extract them safely without causing further injury. [Source: ICRC/IFRC first aid guidelines on approaching casualties]
+
+## Prioritizing Multiple Injured People
+When there are several injured people, first help those who are not breathing or have severe bleeding — these are immediately life-threatening and take priority over painful but non-life-threatening injuries like an isolated broken arm. People who are conscious, breathing, and talking can generally wait a short time for attention. Call for emergency medical help immediately and give them the exact location and the number of people injured and their apparent condition, so responders can bring appropriate resources. [Source: ICRC/IFRC first aid guidelines on triage principles for first responders]
+
+## Vehicle Fire Risk
+If a vehicle's engine is smoking, there's a strong fuel smell, or visible fire, get people away from the vehicle immediately to a safe distance, since fuel tanks and undeployed airbags can pose additional danger. Do not attempt to fight a vehicle fire yourself unless you have proper training and equipment, and warn others to keep a safe distance as well. [Source: general road accident first-responder safety guidance]
+
+## What to Tell Emergency Services
+When calling for help, give: the exact location (road name, nearest landmark, kilometer marker, or GPS coordinates if you have them), the number of vehicles and people involved, whether anyone is trapped, and the apparent severity of injuries (conscious/unconscious, breathing/not breathing, visible severe bleeding). Stay on the line if asked, and follow any first aid instructions the dispatcher gives you while help is on the way. [Source: general emergency dispatch guidance]
+
+## Basic First Aid at the Scene While Waiting for Help
+While waiting for professional help, apply direct pressure to any severe external bleeding, and if a person is not breathing normally, begin CPR (see the CPR and choking guidance). If someone is unresponsive but breathing, and you do not suspect a spinal injury requiring them to stay flat, placing them in the recovery position on their side can help keep their airway clear. Keep injured people warm using blankets, clothing, or vehicle seat covers, since shock and cold can worsen outcomes even when the initial injury is not life-threatening on its own. Reassure conscious casualties, keep them still, and avoid letting them see the extent of injuries to others where this would add distress. [Source: ICRC/IFRC first aid guidelines applied to road accident scenes]
+
+## Helmets and Motorcycle Accidents
+Do not remove a motorcycle helmet from an injured rider unless it is preventing you from checking or maintaining their airway and breathing, or you are trained in safe helmet removal technique, since incorrect removal can worsen a neck injury. If the helmet must be removed because the person is not breathing and needs CPR or airway management, have one person stabilize the head and neck while another carefully removes the helmet, keeping the head and neck as aligned and still as possible throughout. [Source: ICRC/IFRC first aid guidelines on motorcycle helmet removal]
+
+## Using This App if Networks Are Down
+If cellular networks are congested or unavailable after a mass accident or disaster, use this app's Bluetooth mesh chat to relay a request for help through nearby phones running the app, even without any internet or cell signal — messages hop from phone to phone until they reach someone who can get a call through or physically fetch help. [Source: Sankat Setu app documentation]

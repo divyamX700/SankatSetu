@@ -1,0 +1,23 @@
+# Missing Person and Family Reunification
+Source: Adapted from ICRC restoring family links principles and general disaster reunification guidance — authored summary, with citations per section below
+
+## Immediately After Getting Separated
+If your family or group gets separated during a disaster or evacuation, agree in advance (or as soon as reunited briefly) on a specific meeting point outside the danger area, and a backup meeting point further away in case the first is not accessible. If phones are working, call or message immediately; if not, use this app's Bluetooth mesh chat, which can relay messages between nearby phones without any cellular network — announce your name, description, and location so nearby users running the app can pass the message along. [Source: ICRC restoring family links principles / Sankat Setu app documentation]
+
+## Reporting a Missing Person to Authorities
+Report a missing person to local police, disaster relief authorities, or a designated relief camp registration desk as soon as possible. Provide a recent photo if available, full name, age, physical description, clothing last seen wearing, any medical conditions or medication needs, and the location and time they were last seen. Register at official relief camps and shelters even briefly, since these lists are often used to help reunite families. [Source: ICRC restoring family links principles]
+
+## Searching for a Missing Family Member
+Check official relief camps, hospitals, and shelters in the area methodically, since injured or displaced people are often taken to the nearest available facility rather than one you'd expect. Many disaster responses set up a central missing persons registry or family tracing service — ask local authorities or Red Cross/Red Crescent volunteers if one has been established for this event, as these track separated family reports across multiple camps and hospitals. [Source: ICRC restoring family links principles]
+
+## Helping a Found Child or Lost Person
+If you find a child or a confused person who appears lost or separated from their family, do not leave them alone. Keep them calm, ask their name and any information about their family if they are able to communicate, and take them to the nearest relief camp registration point, police, or officially marked help desk rather than trying to search for the family yourself, which can cause you to miss each other. Note the exact time and location where you found them, which helps authorities match them with a family search report. [Source: ICRC restoring family links principles, child protection considerations in emergencies]
+
+## Staying Reachable
+If you are safe but away from home, let family and neighbours know through any means available — a note left at your home, a message through this app's mesh chat to be relayed by others, or word passed through a relief camp — so people searching for you are not left worrying or wasting search effort. [Source: ICRC restoring family links principles]
+
+## Reunification of Unaccompanied Children
+An unaccompanied child in a disaster setting is especially vulnerable and needs prompt, careful handling: do not photograph or publicly post identifying details of a lost child on open social media without going through official channels first, since this can complicate formal reunification processes and, in rare cases, expose the child to risk. Instead work through the relief camp's child protection desk, police, or an organization such as the Red Cross/Red Crescent that has protocols for safely registering and tracing unaccompanied children back to their families. Keep the child with a consistent, identified caregiver rather than passing them between different adults while the search continues, since stability matters for a frightened child. [Source: ICRC restoring family links principles, general child protection in emergencies guidance]
+
+## Documentation That Helps Reunification
+Where possible before a disaster strikes, keep a recent photo of each family member (including children) and a written note of identifying details like height, distinguishing marks, and any medical needs, stored somewhere accessible such as on a phone or with a relative outside the affected area. During an actual search, precise details — an exact last-seen location and time, rather than a general description — meaningfully speed up cross-referencing by relief workers checking multiple camps and casualty lists. [Source: ICRC restoring family links principles, general disaster preparedness guidance]

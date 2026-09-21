@@ -1,0 +1,41 @@
+# Reference repos cloned for porting — not part of our source tree.
+/reference/
+
+# Android / Gradle
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+app/build/
+app/release/
+app/debug/
+
+# Keystores
+*.jks
+*.keystore
+keystore.properties
+
+# Model files (side-loaded, not committed — see docs/adr/0005).
+# Only the large Gemma .task file is excluded; the small MiniLM ONNX
+# embedding model and the pre-built RAG SQLite index ARE meant to be
+# committed once Day 2 produces them.
+app/src/main/assets/models/gemma-3-1b-it-int4.task
+
+# Gateway (Python)
+gateway/.venv/
+gateway/__pycache__/
+gateway/**/__pycache__/
+gateway/.env
+
+# Docker volumes
+gateway/.localstack/
+gateway/opensearch-data/
+
+# Agent-local config, not project source
+.claude/
+.codex/

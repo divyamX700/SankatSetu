@@ -1,0 +1,17 @@
+# Using Sankat Setu's Offline Features
+Source: Sankat Setu app documentation (authored — describes this app's own features, not general safety advice)
+
+## The Mesh Chat (No Internet Needed)
+Sankat Setu's Chat tab connects to nearby phones running the same app directly over Bluetooth, with no internet, Wi-Fi, or cellular network required at all. When another phone with the app is nearby, it appears in your peer list automatically within a few seconds. Messages are end-to-end encrypted, and if a phone you want to reach is not directly in range, your message can still relay hop-by-hop through other nearby phones running the app, extending your reach beyond direct Bluetooth range.
+
+## Reading Delivery Status
+Messages show a status: "waiting…" means the message could not go out yet because no mesh connection currently exists — it is saved and will be retried automatically once a connection is available. A single tick means it left your phone. A double grey tick means the recipient's phone actually received and decrypted it. A double blue tick means the recipient opened the conversation and saw it.
+
+## What "Disconnected" Means
+A peer showing "Disconnected" means the direct Bluetooth link to their phone is currently down — often because they have moved out of range or their Bluetooth was toggled off. This does not delete the conversation; messages sent while disconnected are queued and will send automatically once a connection is possible again, either directly or via another nearby phone relaying it.
+
+## Why This Works Without Cellular or Wi-Fi Networks
+During disasters, cell towers can be damaged, overloaded, or lose power, and internet access can disappear entirely. Sankat Setu's mesh chat does not depend on any of that infrastructure — it only needs two or more phones with the app and Bluetooth turned on, physically within range of each other or connected through a chain of nearby phones.
+
+## The Offline Assistant
+The Assistant tab answers crisis and first-aid questions entirely on-device, without needing internet access, using a small language model and a built-in knowledge base of safety guidance. It only answers based on what is in its knowledge base, and will say so honestly if it does not have relevant guidance for a question, rather than guessing.

@@ -1,0 +1,38 @@
+{
+  "": {
+    "entityTypes": {
+      "Peer": {
+        "shape": {
+          "type": "Record",
+          "attributes": {}
+        }
+      },
+      "Group": {
+        "shape": {
+          "type": "Record",
+          "attributes": {}
+        }
+      },
+      "MessageKind": {
+        "shape": {
+          "type": "Record",
+          "attributes": {}
+        }
+      }
+    },
+    "actions": {
+      "relay": {
+        "appliesTo": {
+          "principalTypes": ["Peer"],
+          "resourceTypes": ["MessageKind"],
+          "context": {
+            "type": "Record",
+            "attributes": {
+              "messagesLastMinute": { "type": "Long", "required": true }
+            }
+          }
+        }
+      }
+    }
+  }
+}

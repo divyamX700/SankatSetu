@@ -1,0 +1,37 @@
+[
+  {
+    "doc": "bleeding_and_wounds",
+    "section": "How to Apply a Tourniquet",
+    "image": "kb/images/tourniquet_steps_diagram.png",
+    "caption": "Three steps: tie the band 5 to 7 cm above the wound, twist a stick underneath to tighten until bleeding stops, then tie it off and note the time.",
+    "attribution": "Original illustration, drawn for this app"
+  },
+  {
+    "doc": "cpr_and_choking",
+    "section": "Performing Chest Compressions",
+    "image": "kb/images/cpr_chest_compressions.jpg",
+    "caption": "Correct hand position for chest compressions: heel of one hand on the center of the chest, the other hand on top, arms straight.",
+    "attribution": "Photo by Rama, CC BY-SA 2.0 FR, via Wikimedia Commons"
+  },
+  {
+    "doc": "cpr_and_choking",
+    "section": "Choking in Adults and Children Over One Year",
+    "image": "kb/images/heimlich_adult.jpg",
+    "caption": "Abdominal thrusts (the Heimlich maneuver) on a conscious, choking adult: stand behind them, fist just above the navel, thrust inward and upward.",
+    "attribution": "U.S. Army Medical Department Center and School, Fort Sam Houston — public domain, via Wikimedia Commons"
+  },
+  {
+    "doc": "cpr_and_choking",
+    "section": "Choking in Infants Under One Year",
+    "image": "kb/images/heimlich_infant.png",
+    "caption": "For a choking infant under one year: never use abdominal thrusts. Alternate back blows and chest thrusts instead, as shown here.",
+    "attribution": "Illustration by BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
+  },
+  {
+    "doc": "fractures_sprains_spinal",
+    "section": "Immobilizing a Fracture",
+    "image": "kb/images/finger_splint.jpg",
+    "caption": "A splint immobilizes the joint above and below an injury. Shown here on a finger — the same principle (rigid support plus padding, secured but not tight enough to cut circulation) applies to a splinted arm or leg.",
+    "attribution": "Photo by Salil Kumar Mukherjee, CC BY-SA 4.0, via Wikimedia Commons"
+  }
+]

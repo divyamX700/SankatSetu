@@ -1,0 +1,29 @@
+# Water Purification and Sanitation in a Crisis
+Source: Adapted from WHO household water treatment guidance and CDC emergency water and sanitation guidance — authored summary, with citations per section below
+
+## Boiling Water
+Boiling is the most reliable way to make water safe to drink when the source is questionable. Bring water to a rolling boil for at least 1 minute (3 minutes if you are at high altitude above roughly 2000 meters), then let it cool before drinking. Boiling kills bacteria, viruses, and parasites, though it does not remove chemical contaminants or heavy sediment — let sediment settle and strain water through a clean cloth before boiling if it is very muddy. [Source: WHO/CDC household water treatment guidance]
+
+## Chlorination
+If boiling is not possible, unscented household liquid chlorine bleach (typically 4-6% sodium hypochlorite, with no added soap or fragrance) can disinfect water: add about 2 drops of bleach per liter of clear water, stir, and let it stand for 30 minutes before drinking. Double the dose for cloudy water. The water should have a faint chlorine smell afterward; if it doesn't, repeat the dose. Water purification tablets, if available, work similarly — follow the instructions on the packet exactly. [Source: CDC emergency water disinfection guidance]
+
+## Filtration
+A simple cloth filter (folding a clean cotton cloth several times) removes visible sediment and some parasites like those causing guinea worm disease, but does not remove bacteria or viruses on its own — always combine filtration with boiling or chlorination for water of uncertain safety. Commercial ceramic or membrane water filters, where available, are effective against bacteria and parasites; check the product's specifications for virus removal. [Source: WHO household water treatment guidance]
+
+## Solar Disinfection (SODIS)
+If no other method is available, fill a clear, clean plastic bottle with water and leave it in direct strong sunlight on a reflective surface (like a metal roof) for at least 6 full hours, or 2 days if the sky is cloudy. UV rays and heat from the sun kill most disease-causing organisms. This works best with water that is already relatively clear. [Source: WHO household water treatment guidance — solar water disinfection method]
+
+## Safe Water Storage
+Store treated water in a clean, covered container with a narrow opening or tap to prevent people dipping hands or dirty cups into it, which can recontaminate the water. Use stored water within a few days where possible, and re-treat if it has been standing a long time or the container has been reopened repeatedly. [Source: WHO household water treatment guidance]
+
+## Basic Sanitation During a Crisis
+Wash hands with soap and water before eating, preparing food, and after using the toilet — this is one of the most effective ways to prevent disease spread during a crisis when clean water is limited. If toilets are unavailable or damaged, dig a latrine well away from any water source (at least 30 meters and downhill/downstream from wells or rivers) and cover waste with soil after each use to reduce disease spread and contamination. [Source: WHO/CDC emergency sanitation guidance]
+
+## Recognizing and Managing Diarrheal Illness from Unsafe Water
+Diarrheal disease from contaminated water is a leading cause of illness and death after disasters, particularly in young children. Watch for frequent loose stools, vomiting, fever, or blood in stool, and begin oral rehydration solution immediately for anyone with diarrhea to prevent dangerous dehydration, continuing to offer food as tolerated rather than withholding it. Seek medical care urgently for a child with diarrhea who shows signs of severe dehydration (sunken eyes, lethargy, little or no urine, unable to drink), or for anyone with blood in the stool, high fever, or diarrhea lasting more than two days. [Source: WHO guidance on diarrheal disease management and oral rehydration]
+
+## Handwashing and Hygiene with Limited Water
+When water is scarce, prioritize handwashing with soap (or ash as a substitute if soap is unavailable) at critical moments: before eating or preparing food, after using the toilet, after cleaning a child who has defecated, and after handling anything visibly contaminated. Even a small amount of water poured from a container over soaped hands is more effective at reducing disease transmission than skipping handwashing to conserve water, since the friction and rinsing action matter as much as the volume of water used. [Source: WHO/CDC emergency hygiene guidance]
+
+## Food Safety Alongside Water Safety
+Food that has come into contact with flood water, unsafe water, or has been stored without refrigeration for an extended period during a power outage should be treated with caution or discarded, since contaminated food is another major route for disease transmission during a crisis, alongside unsafe water. Reheat food thoroughly before eating if there is any doubt about how it was stored, and avoid feeding questionable food to young children, the elderly, or anyone with a weakened immune system, who are more vulnerable to foodborne illness. [Source: WHO/CDC general food and water safety guidance during emergencies]

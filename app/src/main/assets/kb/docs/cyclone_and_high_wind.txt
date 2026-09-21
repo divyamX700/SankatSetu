@@ -1,0 +1,23 @@
+# Cyclone, Hurricane, and High Wind Safety
+Source: Adapted from NDMA India cyclone guidelines and general IFRC/WHO disaster preparedness guidance — authored summary, with citations per section below
+
+## Before a Cyclone Arrives
+Follow official warnings and evacuation orders immediately — cyclones are tracked well in advance by the India Meteorological Department, and early evacuation is far safer than waiting to see how the storm develops. Secure or bring indoors loose outdoor items such as furniture, tin sheets, and signage that could become dangerous projectiles in high wind. Board up or tape large windows, and fill containers with clean drinking water in case supply is disrupted. Charge phones, power banks, and any battery-powered lights fully. [Source: NDMA India cyclone guidelines]
+
+## Choosing a Safe Shelter
+If you must stay rather than evacuate, choose the smallest interior room on the lowest floor, away from windows and doors, such as a bathroom or interior hallway. Avoid rooms with wide roof spans like a living room, since these are more likely to lose their roof in extreme wind. Stay away from coastal areas, riverbanks, and low-lying ground due to storm surge and flash flooding risk, which often causes more deaths than the wind itself. [Source: NDMA India cyclone guidelines]
+
+## During the Storm
+Stay indoors and away from windows throughout the storm. Do not go outside during a lull or the passing of the eye of a cyclone — winds can return suddenly and violently from the opposite direction once the eye passes. Listen to a battery-powered or hand-crank radio for official updates if cellular networks are down. [Source: NDMA India cyclone guidelines]
+
+## Storm Surge and Coastal Flooding
+Storm surge — a rise in sea level pushed inland by the storm — can flood coastal areas rapidly and is often the deadliest part of a cyclone, sometimes reaching well beyond the immediate coastline in low-lying deltas and estuaries. If you are in a coastal or low-lying area under an evacuation order, leave well before the storm arrives; do not wait to see how bad it gets, since roads and evacuation routes can flood or become impassable hours before the storm's peak winds arrive. [Source: NDMA India cyclone guidelines]
+
+## After the Cyclone Passes
+Stay indoors until authorities confirm it is safe — the storm may not be fully over even after winds die down, and secondary hazards like flooding can persist or worsen afterward. Watch for downed power lines, damaged buildings, and flooding when you do go out, and avoid clearing debris near power lines yourself. Boil or purify drinking water until you know the supply is safe, since cyclones often contaminate water sources and disrupt water treatment. Use the mesh chat in this app to reach family and neighbours if cellular networks are congested or down. [Source: NDMA India cyclone guidelines]
+
+## Cyclone Warning Stages and What They Mean
+The India Meteorological Department issues staged cyclone alerts as a storm develops and approaches — generally moving from a watch/alert stage giving early notice, to a warning stage as the threat becomes more certain, to a post-landfall outlook. Pay attention to the specific stage of warning issued for your district, since advice and urgency escalate through these stages, and follow local district administration instructions for your specific coastal or inland location, as timing and evacuation needs vary by exact location relative to the storm's projected path. [Source: NDMA India cyclone guidelines, India Meteorological Department public warning system]
+
+## Protecting Livestock and Property
+If you keep livestock and evacuation is ordered, and time and safety allow, move animals to higher, sheltered ground or a designated safe area rather than leaving them tied up in low-lying or exposed locations, since tied animals cannot escape rising water or falling debris on their own. Prioritize human safety and evacuation timing over property and livestock if there is any conflict — a delayed evacuation to save belongings or animals has repeatedly proven fatal in past cyclones. [Source: NDMA India cyclone guidelines, general disaster preparedness guidance]

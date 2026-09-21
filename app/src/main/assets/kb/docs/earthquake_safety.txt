@@ -1,0 +1,26 @@
+# Earthquake Safety
+Source: Adapted from NDMA India earthquake guidelines and USGS/FEMA public earthquake safety guidance — authored summary, with citations per section below
+
+## During Shaking: Drop, Cover, Hold On
+The moment you feel shaking, drop to your hands and knees where you are, take cover under a sturdy table or desk if one is nearby, and hold on to it until the shaking stops. If no table is available, cover your head and neck with your arms and crouch against an interior wall, away from windows, mirrors, and heavy furniture that could fall. Do not run outside during shaking — most earthquake injuries happen from falling objects and people falling while trying to move, not from buildings collapsing on people who stayed put. [Source: FEMA/USGS "Drop, Cover, and Hold On" public earthquake safety guidance / NDMA India earthquake guidelines]
+
+## If You Are Outdoors
+Move to an open area away from buildings, trees, streetlights, and power lines, since these can collapse or fall. Drop to the ground and stay there until the shaking stops. [Source: NDMA India earthquake guidelines]
+
+## If You Are in a Vehicle
+Pull over to a clear location away from buildings, trees, overpasses, and power lines, stop the vehicle, and stay inside with your seatbelt on until the shaking stops. Avoid bridges or ramps that may have been damaged. [Source: FEMA public earthquake safety guidance]
+
+## Immediately After Shaking Stops
+Expect aftershocks — they can be as strong as the initial quake in the following minutes, hours, or days. Check yourself and people near you for injuries and provide first aid before moving anyone with a suspected serious injury. If you are in a damaged building, evacuate carefully using the stairs, not elevators, watching for broken glass, downed wires, and unstable structures. If you smell gas or hear a hissing sound, leave immediately and get far away, and avoid using matches, lighters, or electrical switches which could ignite a leak. [Source: NDMA India earthquake guidelines / FEMA public earthquake safety guidance]
+
+## After the Earthquake
+Once outside and safe, do not re-enter damaged buildings until authorities confirm they are structurally safe. Stay away from damaged areas, coastlines if a tsunami warning is possible, and areas with visible structural damage. Use text messages or the mesh chat rather than voice calls where possible, since phone networks are often overloaded after a disaster — this app's Bluetooth mesh chat continues to work without any cellular or Wi-Fi network at all. Listen to official radio or emergency broadcasts for guidance, and check on neighbours, especially elderly or disabled people, if it is safe to do so. [Source: NDMA India earthquake guidelines]
+
+## Preparing Before an Earthquake
+Identify safe spots in each room (under sturdy furniture, against interior walls) in advance. Secure heavy furniture, shelves, and water heaters to walls where possible. Keep a flashlight, first aid kit, drinking water, and a battery or hand-crank radio easily accessible. Know how to shut off gas, water, and electricity at the main switches. [Source: NDMA India earthquake guidelines / FEMA public earthquake safety guidance]
+
+## Tsunami Risk After a Coastal Earthquake
+If you feel a strong or long earthquake while near the coast, and especially if you see the sea suddenly retreat further than normal, treat this as a natural tsunami warning and move to high ground or as far inland as possible immediately, without waiting for an official alert, since a tsunami can arrive within minutes of a nearby undersea earthquake. Stay away from the coast until authorities confirm the tsunami threat has passed, since multiple waves can arrive over several hours, and later waves are sometimes larger than the first. [Source: NDMA India earthquake and tsunami guidelines, general tsunami public safety guidance]
+
+## Earthquake-Resistant Awareness for Rural and Older Buildings
+Many rural homes and older buildings, particularly unreinforced masonry or mud construction common in parts of India, are more vulnerable to collapse in strong shaking than modern reinforced structures. Being aware that your specific home type may be higher risk is useful for planning where to go during and after shaking, and for prioritizing structural inspection after any earthquake before resuming normal use of the building, even if damage is not obviously visible from the outside. [Source: NDMA India earthquake guidelines, general structural safety awareness]

@@ -1,0 +1,26 @@
+# Fire Safety and Evacuation
+Source: Adapted from NFPA public fire safety guidance and general building evacuation and LPG safety principles — authored summary, with citations per section below
+
+## If a Fire Starts
+Alert everyone nearby immediately by shouting "fire" and, if there is a fire alarm, activate it. Get out of the building using the nearest safe exit — do not stop to collect belongings. If you are trained and the fire is small and contained (like a wastebasket fire), you may attempt to use a fire extinguisher, aiming at the base of the fire; otherwise, prioritize evacuating over fighting the fire. [Source: NFPA public fire safety guidance]
+
+## Moving Through Smoke
+Smoke and toxic gases are the leading cause of fire deaths, more than burns. If a room is filling with smoke, stay low — crawl on the floor where the air is clearer and cooler, since smoke and heat rise. Cover your nose and mouth with a damp cloth if possible to filter some smoke. [Source: NFPA public fire safety guidance]
+
+## Checking Doors Before Opening
+Before opening any closed door while escaping a fire, feel the door and door handle with the back of your hand. If it is hot, do not open it — fire may be on the other side; find another way out or seal gaps with cloth and signal for help from a window instead. If the door is cool, open it slowly and be ready to close it quickly if smoke or heat rushes in. [Source: NFPA public fire safety guidance]
+
+## If Your Clothes Catch Fire
+Stop moving immediately — do not run, as this fans the flames. Drop to the ground and roll back and forth to smother the fire (stop, drop, and roll). Cover your face with your hands while rolling. Once flames are out, cool any burns under running water for 20 minutes. [Source: NFPA public fire safety guidance]
+
+## If You Are Trapped
+If you cannot escape, go to a room with a window, close the door between you and the fire, and seal gaps under the door with wet towels or clothing to slow smoke entry. Open the window if it is safe to do so for fresh air, and signal for help by shouting or waving a bright cloth. Call 112 or your local fire emergency number and tell them your exact location if you can. [Source: NFPA public fire safety guidance]
+
+## Home Fire Prevention and Escape Planning
+Know at least two ways out of every room in your home in advance, and agree on an outside meeting point with your family. Keep exits clear of clutter. Never leave cooking fires, candles, or heaters unattended. Keep flammable materials away from stoves and open flames. If you use a gas cylinder, check for leaks regularly (a soapy water test on connections works well) and keep the area ventilated. [Source: NFPA public fire safety guidance, general LPG cylinder safety guidance]
+
+## Cooking Fire Safety in Kitchens Using LPG or Open Flame
+Never pour water on a burning cooking-oil or grease fire, since it can cause the burning oil to splash violently and spread the fire — instead, if it is safe to do so quickly, smother the flames by sliding a metal lid or damp (not dripping) cloth over the pan and turning off the heat source, then leave it covered and undisturbed until fully cool. Keep loose clothing, especially long sleeves and dupattas, away from open flames and stove burners while cooking. Store LPG cylinders upright, away from heat sources and direct sun, and turn off the cylinder valve, not just the stove knob, when cooking is finished, particularly overnight. [Source: NFPA public fire safety guidance, general LPG cylinder safety guidance]
+
+## Evacuating a Multi-Story or Crowded Building
+In a multi-story building, always use the stairs during a fire, never a lift, since lifts can stop between floors or open onto a smoke-filled floor. Move in an orderly way, keep to one side of the stairwell where possible so others including emergency responders can pass, and help anyone who has difficulty moving quickly, such as elderly residents, small children, or people with disabilities, rather than leaving them behind on the assumption someone else will help. In a crowded public space, be aware of the nearest marked exits when you arrive rather than only when an emergency starts, and avoid the urge to push through a crowd, since crowd crush at narrow exits during a panic can itself cause serious injury. [Source: NFPA public fire safety guidance, general crowd and building evacuation safety guidance]

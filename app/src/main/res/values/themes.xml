@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compose owns all real theming (ui/theme/Theme.kt). This is only here
+         so the manifest's android:theme attribute resolves before Compose
+         takes over the window on first frame. -->
+    <style name="Theme.SankatSetu" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

@@ -1,0 +1,26 @@
+# Shelter and Evacuation Planning
+Source: Adapted from NDMA India evacuation guidance and Sphere humanitarian minimum standards for shelter and settlement — authored summary, with citations per section below
+
+## Deciding to Evacuate
+If authorities issue an evacuation order, follow it — these are based on hazard forecasts and past disaster patterns that are difficult to judge from personal experience alone. If no official order exists but you observe clear danger signs (rapidly rising water, structural cracks, a wildfire approaching, a strong gas smell), do not wait for permission to leave; evacuate early rather than at the last minute when routes may be blocked or more dangerous. [Source: NDMA India evacuation guidance]
+
+## What to Bring When Evacuating
+Prioritize, if time allows: identification documents and cash, any essential medication, water and some food, a phone and power bank, a flashlight, and weather-appropriate clothing. Keep bags packed in advance if you live in a hazard-prone area so you can leave quickly without searching for items under stress. [Source: NDMA India evacuation guidance]
+
+## Choosing an Evacuation Route
+Use routes designated by local authorities where possible, since they account for known hazards. Avoid low-lying roads, riverbanks, and bridges during flood risk, and avoid downed power lines and unstable structures during earthquakes or storms. If your primary route is blocked, have a backup route in mind rather than improvising in the moment. [Source: NDMA India evacuation guidance]
+
+## At a Relief Camp or Shelter
+Register your name and the names of everyone with you at the camp entry point, both for your own safety record and to help family members searching for you. Follow camp rules on space allocation, food distribution timing, and sanitation facility use — these exist to keep a crowded, stressed environment functioning safely for everyone. Report any urgent medical needs to camp staff immediately, and report any safety concerns (including harassment or unsafe conditions) to camp management or authorities. [Source: Sphere minimum standards for humanitarian shelter and settlement]
+
+## Sanitation and Health in a Shelter Setting
+Wash hands with soap before eating and after using toilets, since crowded shelter conditions increase risk of disease spread. Keep children close and supervised, especially near cooking areas and any open water sources. Report symptoms of illness in yourself or others to camp health workers early, both for your own care and to prevent spread to others in a crowded setting. [Source: Sphere minimum standards for humanitarian shelter and settlement]
+
+## Returning Home After Evacuation
+Do not return home until authorities confirm it is safe — a hazard like flooding or a damaged structure may not be visible or may still be actively dangerous even after the main event has passed. When you do return, inspect for structural damage, gas leaks, and electrical hazards before fully re-entering and resuming normal use of utilities. [Source: NDMA India evacuation guidance]
+
+## Special Considerations for Vulnerable Groups During Evacuation
+Plan extra time and assistance for evacuating elderly people, people with disabilities, young children, and pregnant women, since standard evacuation timelines are often based on an assumption of full mobility that does not apply to everyone. Identify in advance who in your household or neighbourhood may need physical help, a wheelchair or mobility aid, or additional medical supplies during evacuation, and check on isolated neighbours who live alone, since they may not have anyone else to help them evacuate in time. [Source: Sphere minimum standards, general disability-inclusive disaster response guidance]
+
+## Privacy, Dignity, and Safety in Shared Shelters
+Shared shelter and camp environments can raise particular safety and dignity concerns, especially for women, girls, and other vulnerable individuals — look for and use separate sanitation facilities where provided, and report any harassment, unsafe sleeping arrangements, or exploitation attempts to camp management or authorities immediately rather than staying silent. Camps organized to recognized humanitarian standards generally aim to provide adequate lighting, separated facilities, and a functioning complaints or reporting mechanism; ask camp staff about these if they are not obviously visible. [Source: Sphere minimum standards for humanitarian shelter, protection, and dignity]
