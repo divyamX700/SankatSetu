@@ -168,10 +168,3 @@ scripts/          setup scripts for Corretto/Android SDK/Cedar cross-compile/Str
 docs/media/       diagrams and clips used in this README
 ```
 
-## Attribution
-
-This project builds on a few open-source projects — see [`NOTICE.md`](NOTICE.md) for the full list and what was ported vs. referenced vs. adapted.
-
-## License
-
-Apache License 2.0 — see [`LICENSE`](LICENSE).
