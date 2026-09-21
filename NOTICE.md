@@ -2,8 +2,7 @@
 
 Sankat Setu is built for the First Commit hackathon (Bharat Builds Tour,
 Sept 17-20, 2026) and knowingly builds on the following open-source projects.
-Per the project's own sourcing policy (see `docs/adr/0002-vendoring-and-porting-strategy.md`),
-attribution is handled here rather than through license-compliance
+Attribution is handled here rather than through license-compliance
 engineering — the priority was a working demo, not a legal audit.
 
 ## Bitchat
@@ -25,7 +24,7 @@ License: Unlicense (public domain)
 
 `payments/UpiQrParser.kt` is adapted from Flowpay's
 `QRCodeParser.kt` (query-string parsing hand-rolled instead of
-`android.net.Uri` — see `docs/adr/0025-qr-scan-to-pay.md` for why).
+`android.net.Uri`).
 `payments/UssdDialer.kt`'s `ACTION_DIAL`-not-`ACTION_CALL` design
 follows the same safety boundary Flowpay's own `CallManager.kt`
 documents. Both from
@@ -94,7 +93,7 @@ License: Apache License 2.0
 
 `res/font/jetbrains_mono_*.ttf` — the monospace face used for the "field
 radio" instrument register (peer IDs, hop counts, timestamps, signal
-readouts; see `docs/adr/0014-field-radio-design-language.md`).
+readouts).
 
 Source: https://github.com/JetBrains/JetBrainsMono
 License: SIL Open Font License 1.1
@@ -102,8 +101,7 @@ License: SIL Open Font License 1.1
 ## Inter
 
 `res/font/inter_variable.ttf` — the primary UI typeface (body text,
-headings, buttons) as of the 2026 UI revamp; see
-`docs/adr/0018-ui-revamp.md`.
+headings, buttons).
 
 Source: https://github.com/rsms/inter (bundled from https://github.com/google/fonts/tree/main/ofl/inter)
 License: SIL Open Font License 1.1

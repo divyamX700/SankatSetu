@@ -1,0 +1,20 @@
+# Water Purification and Sanitation in a Crisis
+Source: Adapted from WHO household water treatment guidance and CDC emergency water guidance (authored summary)
+
+## Boiling Water
+Boiling is the most reliable way to make water safe to drink when the source is questionable. Bring water to a rolling boil for at least 1 minute (3 minutes if you are at high altitude above roughly 2000 meters), then let it cool before drinking. Boiling kills bacteria, viruses, and parasites, though it does not remove chemical contaminants or heavy sediment — let sediment settle and strain water through a clean cloth before boiling if it is very muddy.
+
+## Chlorination
+If boiling is not possible, unscented household liquid chlorine bleach (typically 4-6% sodium hypochlorite, with no added soap or fragrance) can disinfect water: add about 2 drops of bleach per liter of clear water, stir, and let it stand for 30 minutes before drinking. Double the dose for cloudy water. The water should have a faint chlorine smell afterward; if it doesn't, repeat the dose. Water purification tablets, if available, work similarly — follow the instructions on the packet exactly.
+
+## Filtration
+A simple cloth filter (folding a clean cotton cloth several times) removes visible sediment and some parasites like those causing guinea worm disease, but does not remove bacteria or viruses on its own — always combine filtration with boiling or chlorination for water of uncertain safety. Commercial ceramic or membrane water filters, where available, are effective against bacteria and parasites; check the product's specifications for virus removal.
+
+## Solar Disinfection (SODIS)
+If no other method is available, fill a clear, clean plastic bottle with water and leave it in direct strong sunlight on a reflective surface (like a metal roof) for at least 6 full hours, or 2 days if the sky is cloudy. UV rays and heat from the sun kill most disease-causing organisms. This works best with water that is already relatively clear.
+
+## Safe Water Storage
+Store treated water in a clean, covered container with a narrow opening or tap to prevent people dipping hands or dirty cups into it, which can recontaminate the water. Use stored water within a few days where possible, and re-treat if it has been standing a long time or the container has been reopened repeatedly.
+
+## Basic Sanitation During a Crisis
+Wash hands with soap and water before eating, preparing food, and after using the toilet — this is one of the most effective ways to prevent disease spread during a crisis when clean water is limited. If toilets are unavailable or damaged, dig a latrine well away from any water source (at least 30 meters and downhill/downstream from wells or rivers) and cover waste with soil after each use to reduce disease spread and contamination.

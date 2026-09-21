@@ -1,0 +1,17 @@
+# Emergency Contacts and Helplines in India
+Source: Public emergency helpline numbers, Government of India (authored summary — verify locally as numbers can change)
+
+## National Emergency Number
+Dial 112 for any emergency in India — police, fire, or medical. This single number, the Emergency Response Support System, connects to police, fire, and ambulance services and is available across most of the country, including via SMS in some states where calling is not possible.
+
+## Specific Service Helplines
+Police: 100 (also reachable via 112). Fire: 101 (also reachable via 112). Ambulance: 102 or 108 depending on the state. Women's helpline: 1091. Child helpline: 1098. Disaster management helpline (NDMA): 1078. Railway enquiry and accident helpline: 139.
+
+## When You Cannot Get a Call Through
+During a major disaster, phone networks are often congested or damaged. If calls will not connect, try SMS to 112 where supported, try again after a short wait as networks recover capacity, or seek help in person from the nearest police station, hospital, or relief camp. This app's Bluetooth mesh chat can also relay a request for help to nearby phones running the app even with no cellular or internet connectivity at all, which can then be passed along until it reaches someone able to get a call through.
+
+## Information to Have Ready When Calling
+Your exact location (address, landmark, or GPS coordinates), the nature of the emergency, number of people affected, and any immediate hazards (fire, gas leak, structural collapse). Stay on the line if it is safe to do so, and follow any instructions given by the dispatcher.
+
+## State Disaster Management Authorities
+Each Indian state has its own State Disaster Management Authority (SDMA) that coordinates local disaster response, evacuation orders, and relief camps. Local guidance from district administration and SDMA should be followed alongside national helplines, since they have the most current, location-specific information during an unfolding event.

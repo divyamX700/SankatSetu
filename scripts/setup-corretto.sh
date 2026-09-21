@@ -38,5 +38,5 @@ echo
 echo "  org.gradle.java.home=$WIN_PATH"
 echo
 echo "Then verify with:"
-echo "  cd \"D:\\Amazon AWS hack\" && ./gradlew -version"
+echo "  ./gradlew -version"
 echo "and confirm the JVM line shows 'Corretto', not another vendor."

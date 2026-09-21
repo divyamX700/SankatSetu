@@ -1,0 +1,17 @@
+# Gas Leaks and Chemical Hazards
+Source: Adapted from general LPG safety and chemical hazard response guidance (authored summary)
+
+## If You Smell Gas (LPG Cylinder or Piped Gas)
+Do not switch any electrical switch on or off, do not light a match or lighter, and do not use your phone inside the affected area — even a small spark can ignite a gas-air mixture. Turn off the gas cylinder valve or main gas supply if you can reach it safely without creating a spark. Open doors and windows immediately to ventilate the area. Leave the building and move everyone well away from it, then call the gas emergency helpline or fire service from a safe distance.
+
+## Gas Cylinder Fire
+If a small fire starts at a cylinder valve, and you can do so safely, try to turn off the cylinder valve to cut fuel to the fire — this is often more effective than trying to extinguish the flame itself while gas is still flowing. If the fire is spreading or you cannot reach the valve safely, evacuate the area immediately and call emergency services; do not attempt to move a leaking or burning cylinder.
+
+## Carbon Monoxide Poisoning
+Carbon monoxide is a colorless, odorless gas produced by burning fuel in an enclosed space with poor ventilation — from generators, charcoal stoves, or gas heaters used indoors. Symptoms include headache, dizziness, weakness, nausea, confusion, and can progress to loss of consciousness and death. If you suspect carbon monoxide exposure, get everyone into fresh air immediately and seek medical help — do not re-enter the space until it has been ventilated. Never run a generator or use a charcoal or gas stove for heating inside a closed room or tent.
+
+## Industrial or Unknown Chemical Spills
+If you encounter a chemical spill or a strong, unusual chemical smell, move away from the area immediately, ideally upwind (with the wind blowing from you toward the hazard, not the reverse). Do not touch spilled material or walk through it. If chemical contacted your skin or eyes, flush with large amounts of clean water for at least 15-20 minutes. Report the location to emergency services if you can, and try to note any hazard labels or the color/smell of the substance to help responders, without getting close enough to risk exposure.
+
+## General Evacuation Priorities for Chemical or Gas Hazards
+Move perpendicular to or away from the direction of any visible gas cloud or vapor rather than trying to outrun it in the same direction as wind flow. Help others move away, particularly children, elderly, and those with breathing difficulties who are more vulnerable to toxic exposure. Once safe, do not return until officials confirm the area is clear.

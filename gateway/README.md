@@ -4,8 +4,7 @@ A standalone Python reference implementation of the on-device 3-stage
 assistant pipeline that actually ships inside the Kotlin app (see
 `app/src/main/java/com/sankatsetu/app/assistant/AssistantEngine.kt`), built
 with AWS's real **Strands Agents SDK** — this is what satisfies the
-hackathon's "use a real AWS open-source tool" requirement (see
-`handoff.md` §1/§4a and `docs/adr/0016-on-device-agent-architecture.md`).
+hackathon's "use a real AWS open-source tool" requirement.
 
 **What this is not**: this does not run on the phone. Strands is a Python
 SDK; the phone runs the Kotlin port of the same architecture via MediaPipe.
@@ -22,8 +21,7 @@ comparable — not a token gesture unrelated to the rest of the project.
   the phone ships). Same query in, same retrieved passages out.
 - `tools.py` — `search_kb`, a real Strands `@tool` wrapping that retriever.
   The model decides when to call it (via Strands' tool-calling loop), not a
-  hardcoded RAG pipeline — that's what makes this an *agent*, matching the
-  Kotlin side's framing in ADR 0016.
+  hardcoded RAG pipeline — that's what makes this an *agent*.
 - `main.py` — the two-stage flow: `answer()` (triage/action-suggestion +
   grounded structured answer, one turn — mirrors `AssistantEngine.answer()`)
   and `draft_shareable_message()` (a separate, on-request second call —
@@ -32,9 +30,9 @@ comparable — not a token gesture unrelated to the rest of the project.
   parsing/stripping of that line before display.
 - Model: **Ollama**, running `qwen2.5:0.5b-instruct` — the closest publicly
   available Ollama tag to the exact on-device model
-  (Qwen2.5-0.5B-Instruct int8 via MediaPipe, see `docs/adr/0011`). Fully
-  local, no AWS account, no billing — matches Build It's "no AWS account,
-  no card, no bill" rule.
+  (Qwen2.5-0.5B-Instruct int8 via MediaPipe). Fully local, no AWS
+  account, no billing — matches Build It's "no AWS account, no card, no
+  bill" rule.
 
 ## Setup
 
@@ -98,11 +96,11 @@ verbatim (`"1. First action step."`) with a wrong `Action` value. Fixed by
 switching to the same design `AssistantEngine.kt` actually uses:
 retrieval is a guaranteed, deterministic step before generation, never a
 judgment call left to the model. `search_kb` (`tools.py`) still exists as
-a real Strands `@tool` for optional secondary lookups (per `docs/PRD.md`
-§F2.4), it just isn't what the primary answer's grounding depends on.
+a real Strands `@tool` for optional secondary lookups, it just isn't
+what the primary answer's grounding depends on.
 
-**A real, honest limitation, not fixed** (matches the Kotlin side's own
-documented hallucination caveat, `handoff.md` §5): asking "the bleeding
+**A real, honest limitation, not fixed** (matches a documented
+hallucination caveat on the Kotlin side too): asking "the bleeding
 has stopped, what now" gets answered as if bleeding were still active —
 including advice to "perform a tourniquet," which contradicts standard
 first-aid guidance — and the model doesn't reliably classify this as

@@ -1,0 +1,20 @@
+# Road Traffic Accident Response
+Source: Adapted from general road accident first responder guidance and ICRC first aid principles (authored summary)
+
+## Making the Scene Safe First
+Before helping anyone, check for ongoing danger: oncoming traffic, fire risk, fuel leakage, or unstable vehicles. If safe, turn on hazard lights, place warning triangles or reflective objects some distance behind the accident if available, and ask bystanders to help direct traffic around the scene. Do not put yourself at risk of being hit by another vehicle while helping.
+
+## Approaching Injured People
+Do not move an injured person unless there is immediate danger (fire, oncoming traffic, or an unstable vehicle), since movement can worsen a spinal or other serious injury. Check each person for responsiveness and breathing. If someone is trapped in a vehicle and not in immediate danger, wait for trained rescue and medical personnel who have the right equipment to extract them safely.
+
+## Prioritizing Multiple Injured People
+When there are several injured people, first help those who are not breathing or have severe bleeding — these are immediately life-threatening. People who are conscious, breathing, and talking can generally wait a short time for attention. Call for emergency medical help immediately and give them the exact location and the number of people injured and their apparent condition.
+
+## Vehicle Fire Risk
+If a vehicle's engine is smoking, there's a strong fuel smell, or visible fire, get people away from the vehicle immediately to a safe distance, since fuel tanks and airbags can pose additional danger. Do not attempt to fight a vehicle fire yourself unless you have proper training and equipment.
+
+## What to Tell Emergency Services
+When calling for help, give: the exact location (road name, nearest landmark, or GPS coordinates if you have them), the number of vehicles and people involved, whether anyone is trapped, and the apparent severity of injuries (conscious/unconscious, breathing/not breathing, visible severe bleeding). Stay on the line if asked, and follow any first aid instructions the dispatcher gives you while help is on the way.
+
+## Using This App if Networks Are Down
+If cellular networks are congested or unavailable after a mass accident or disaster, use this app's Bluetooth mesh chat to relay a request for help through nearby phones running the app, even without any internet or cell signal — messages hop from phone to phone until they reach someone who can get a call through or physically fetch help.

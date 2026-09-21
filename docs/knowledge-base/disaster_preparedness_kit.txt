@@ -1,0 +1,17 @@
+# Disaster Preparedness and Emergency Kit
+Source: Adapted from NDMA India and Red Cross household preparedness guidance (authored summary)
+
+## Building a Basic Emergency Kit
+Keep a kit ready with: drinking water (at least 3 liters per person per day for 3 days), non-perishable food that needs no cooking, a flashlight with spare batteries, a battery or hand-crank radio, a first aid kit, any regular medications family members need, copies of important documents (ID, insurance, medical records) in a waterproof bag, cash in small denominations, a whistle to signal for help, and a power bank for phones. Check and refresh food, water, and batteries every few months.
+
+## Family Emergency Plan
+Agree in advance on two meeting points — one near home for a sudden local emergency like a fire, and one further away in case you cannot return home at all. Choose an out-of-area contact person that all family members can call or message if local communication is disrupted, since it is sometimes easier to reach someone far away than someone a few streets over during a local network overload. Make sure every family member, including children, knows the plan and the emergency numbers.
+
+## Preparing for Your Specific Local Hazards
+Identify the disasters most likely in your area — flooding, earthquake, cyclone, wildfire — and prepare specifically for those. For flood-prone areas, know your evacuation route to higher ground. For earthquake-prone areas, secure heavy furniture and know safe spots in each room. For cyclone-prone coastal areas, know your community's shelter locations and evacuation timing.
+
+## Preparing This App for a Crisis
+Keep Sankat Setu installed and Bluetooth permission granted before a crisis happens, not during one. Familiarize yourself with the Chat and Assistant tabs when things are calm, so you know how to use them quickly under stress. Keep your phone charged and consider keeping a small power bank in your emergency kit specifically for this purpose, since the mesh chat and offline assistant both continue working with no cellular network or Wi-Fi at all, as long as your phone has battery and Bluetooth is on.
+
+## Practicing Your Plan
+A plan that has never been practiced often fails under real stress. Periodically walk through your evacuation route, practice the family meeting point plan, and check that kit supplies have not expired or gone stale. Include children in age-appropriate practice so the actions become familiar rather than frightening if a real emergency happens.
